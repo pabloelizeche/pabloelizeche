@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working in [AgilTech](https://www.agiltech.com.py), builing cloud native apps with Genexus
 
-- 🌱 I’m currently learning [Computer Science](https://www.fpuna.edu.py), in FPUNA
+- 🌱 I’m currently learning [Computer Science](https://www.pol.una.py), in FPUNA
 
 - 👯 I’m looking to collaborate on **Cloud native Projects**
 
