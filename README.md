@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pabloelizeche&label=Profile%20views&color=0e75b6&style=flat" alt="pabloelizeche" /> </p>
 
-- 🔭 I’m currently working in [AgilTech](https://www.agiltech.com.py)
+- 🔭 I’m currently working in [AgilTech](https://www.agiltech.com.py), builing cloud native apps with Genexus
 
-- 🌱 I’m currently learning [Genexus](https://www.genexus.com/en/)
+- 🌱 I’m currently learning [Computer Science](https://www.fpuna.edu.py), in FPUNA
 
 - 👯 I’m looking to collaborate on **Cloud native Projects**
 
